@@ -1,4 +1,4 @@
-﻿#3
+#HUISWERK AANPASSING SCRIPT
 
 
 'Geef een local user op '
